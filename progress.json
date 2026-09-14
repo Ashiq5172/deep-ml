@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:23:24.565Z",
+  "generated_at": "2026-09-19T07:23:26.415Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -44,6 +44,69 @@
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-09-11T21:26:25.305Z",
       "last_pushed_at": "2026-09-11T21:26:25.305Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-09-14T06:49:26.430Z",
+      "last_pushed_at": "2026-09-14T06:49:26.430Z"
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-09-14T09:03:03.594Z",
+      "last_pushed_at": "2026-09-14T09:03:03.594Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-09-14T09:05:42.687Z",
+      "last_pushed_at": "2026-09-14T09:05:42.687Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:328": {
+      "kind": "problem",
+      "id": "328",
+      "title": "Vector Norms (L1/L2/L-inf) and the Frobenius Norm",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/328",
+      "path": "problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm",
+      "first_solved_at": "2026-09-14T11:22:24.800Z",
+      "last_pushed_at": "2026-09-14T11:22:24.800Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-09-14T12:21:52.833Z",
+      "last_pushed_at": "2026-09-14T12:21:52.833Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
