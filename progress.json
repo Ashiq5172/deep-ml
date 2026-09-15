@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:23:26.415Z",
+  "generated_at": "2026-09-19T07:23:28.163Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -107,6 +107,80 @@
       "last_pushed_at": "2026-09-14T12:21:52.833Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-09-15T08:02:43.275Z",
+      "last_pushed_at": "2026-09-15T08:02:43.275Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-09-15T08:14:27.855Z",
+      "last_pushed_at": "2026-09-15T08:14:27.855Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-09-15T08:47:17.359Z",
+      "last_pushed_at": "2026-09-15T08:47:17.359Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-09-15T09:56:08.130Z",
+      "last_pushed_at": "2026-09-15T09:56:08.130Z",
+      "language": "python",
+      "lines": 25
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-09-15T13:40:34.827Z",
+      "last_pushed_at": "2026-09-15T13:40:34.827Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-09-15T16:58:54.917Z",
+      "last_pushed_at": "2026-09-15T16:58:54.917Z"
     }
   }
 }
