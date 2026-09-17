@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:23:29.892Z",
+  "generated_at": "2026-09-19T07:23:31.622Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -220,6 +220,45 @@
       "last_pushed_at": "2026-09-16T12:53:15.874Z",
       "language": "python",
       "lines": 42
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-09-17T03:55:08.192Z",
+      "last_pushed_at": "2026-09-17T03:55:08.192Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-09-17T05:30:56.223Z",
+      "last_pushed_at": "2026-09-17T05:30:56.223Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-09-17T18:31:49.619Z",
+      "last_pushed_at": "2026-09-17T18:31:49.619Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
