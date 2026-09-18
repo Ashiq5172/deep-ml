@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:23:31.622Z",
+  "generated_at": "2026-09-19T07:23:33.229Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -259,6 +259,71 @@
       "last_pushed_at": "2026-09-17T18:31:49.619Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2026-09-18T12:34:25.603Z",
+      "last_pushed_at": "2026-09-18T12:34:25.603Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-09-18T16:38:20.333Z",
+      "last_pushed_at": "2026-09-18T16:38:20.333Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:65": {
+      "kind": "problem",
+      "id": "65",
+      "title": "Implement Compressed Row Sparse Matrix (CSR) Format Conversion",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/65",
+      "path": "problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion",
+      "first_solved_at": "2026-09-18T17:50:38.547Z",
+      "last_pushed_at": "2026-09-18T17:50:38.547Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:67": {
+      "kind": "problem",
+      "id": "67",
+      "title": "Implement Compressed Column Sparse Matrix Format (CSC)",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/67",
+      "path": "problems/0067-implement-compressed-column-sparse-matrix-format-csc",
+      "first_solved_at": "2026-09-18T18:32:02.380Z",
+      "last_pushed_at": "2026-09-18T18:32:02.380Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-09-18T19:06:42.250Z",
+      "last_pushed_at": "2026-09-18T19:06:42.250Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
