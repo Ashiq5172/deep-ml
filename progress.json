@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:23:33.229Z",
+  "generated_at": "2026-09-19T07:23:34.947Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -21,7 +21,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-09-11T21:11:00.488Z",
-      "last_pushed_at": "2026-09-11T21:11:00.488Z"
+      "last_pushed_at": "2026-09-19T07:23:34.946Z"
     },
     "math:9": {
       "kind": "math",
@@ -32,7 +32,7 @@
       "url": "https://www.deep-ml.com/math-problems/9",
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-09-11T21:19:24.216Z",
-      "last_pushed_at": "2026-09-11T21:19:24.216Z"
+      "last_pushed_at": "2026-09-19T07:23:34.946Z"
     },
     "math:10": {
       "kind": "math",
@@ -43,7 +43,7 @@
       "url": "https://www.deep-ml.com/math-problems/10",
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-09-11T21:26:25.305Z",
-      "last_pushed_at": "2026-09-11T21:26:25.305Z"
+      "last_pushed_at": "2026-09-19T07:23:34.946Z"
     },
     "math:8": {
       "kind": "math",
@@ -54,7 +54,7 @@
       "url": "https://www.deep-ml.com/math-problems/8",
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-09-14T06:49:26.430Z",
-      "last_pushed_at": "2026-09-14T06:49:26.430Z"
+      "last_pushed_at": "2026-09-19T07:23:34.946Z"
     },
     "problem:121": {
       "kind": "problem",
@@ -169,7 +169,7 @@
       "url": "https://www.deep-ml.com/math-problems/1",
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-09-15T13:40:34.827Z",
-      "last_pushed_at": "2026-09-15T13:40:34.827Z"
+      "last_pushed_at": "2026-09-19T07:23:34.946Z"
     },
     "math:5": {
       "kind": "math",
@@ -180,7 +180,7 @@
       "url": "https://www.deep-ml.com/math-problems/5",
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-09-15T16:58:54.917Z",
-      "last_pushed_at": "2026-09-15T16:58:54.917Z"
+      "last_pushed_at": "2026-09-19T07:23:34.946Z"
     },
     "problem:116": {
       "kind": "problem",
