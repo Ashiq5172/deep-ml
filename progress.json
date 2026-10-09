@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T22:04:26.998Z",
+  "generated_at": "2026-10-09T19:04:01.548Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -700,6 +700,19 @@
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-10-02T22:04:25.510Z",
       "last_pushed_at": "2026-10-02T22:04:25.510Z"
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-10-09T19:03:58.657Z",
+      "last_pushed_at": "2026-10-09T19:03:58.657Z",
+      "language": "python",
+      "lines": 64
     }
   }
 }
